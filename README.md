@@ -1,1 +1,4 @@
 # SE
+l
+ls
+python 
